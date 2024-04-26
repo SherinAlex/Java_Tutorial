@@ -29,7 +29,8 @@ public class ifelse
                 
                 int x=8;
                 int y=7;
-                if(x>y) {
+                if(x>y) 
+                {
                     System.out.println(x);
                     System.out.println("Thankyou");
                 }
