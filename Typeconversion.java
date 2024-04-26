@@ -11,7 +11,7 @@ public class Typeconversion {
 		System.out.println(b1);
 		System.out.println(a0);
 		
-		int aa=257;
+		int aa=128;
 		byte k=(byte)aa;
 		
 		float f=5.6f;
