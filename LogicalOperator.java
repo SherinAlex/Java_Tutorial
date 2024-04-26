@@ -6,7 +6,7 @@ public static void main(String[] args) {
     int a = 48;
     int b = 44;
 
-    //		boolean result= x>y && a<b ;
+//		boolean result= x>y && a<b ;
 //		boolean result= x>y || a<b ;
 //		boolean result= x>y && a>b ;
 //		boolean result= x>y || a>b ;
