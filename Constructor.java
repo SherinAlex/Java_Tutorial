@@ -41,10 +41,8 @@ public class Constructor
     {
       Human obj = new Human();
       Human obj1 = new Human(18,"Defauult");
-      
-
-      obj.setage(26);
-      obj.setname("SherinA");
+       obj.setage(26);
+       obj.setname("SherinA");
       System.out.println(obj.getage() + " : " + obj.getname());
       System.out.println(obj1.getage() + " : " + obj1.getname());
 
