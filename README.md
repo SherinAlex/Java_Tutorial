@@ -28,8 +28,8 @@ With this solid foundation in Java, I am eager to take on more complex projects 
 
 If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me:
 
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/YourProfile)
+- **Email**: [sherinalex22@gmail.com](mailto:sherinalex22@gmail.com)
+- **LinkedIn**: [Sherin Alex]((https://www.linkedin.com/in/sherin-alex))
 
 Thank you for considering my application. I am excited about the prospect of contributing to your team with my Java programming skills.
 
